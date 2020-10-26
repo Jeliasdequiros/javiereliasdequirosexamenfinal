@@ -14,4 +14,31 @@
 /* Colores */
 
 /* ******************************** */
+html{
+    font-family:sans-serif;
+}
 
+
+.root{
+--color-gris-body:#BCB69C;
+--color-naranja-body:#FE9901;
+--color-marron-texto:#502b13;
+--color-blanco-texto:#FFFFFF;
+--color-naranja-recuadros:#FEC35E;
+--color-gris-formulario:#ADADAD;
+--color-naranja-formulario:#FFEBC9;
+}
+
+/* body{
+width:1366px;
+height: 7340px;
+margin-left:10rem;
+} */
+
+/* #container{
+    height: 100vh;   
+    display:grid;
+    grid-template-columns: 10% 1fr 10%;
+    grid-template-rows: 300px 1fr 300px;
+    background-color:#BCB69C;
+} */
